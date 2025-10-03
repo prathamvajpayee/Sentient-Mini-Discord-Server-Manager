@@ -14,7 +14,7 @@ const bannedWords = [
   // "http://", "https://", 
 ];
 
-await mongoose.connect("process.env.MONGODB_URI")
+await mongoose.connect(process.env.MONGODB_URI)
 
 
 const client = new Client({
@@ -179,4 +179,5 @@ client.on("messageCreate", async (message) => {
 });
 
 client.login(process.env.DISCORD_BOT_TOKEN);
+
 
