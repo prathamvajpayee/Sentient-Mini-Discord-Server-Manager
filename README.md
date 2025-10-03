@@ -31,8 +31,7 @@ Powered by **Fireworks API** for Dobby’s AI brain 🧠
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/dobby-server-manager.git
-   cd dobby-server-manager
+   git clone https://github.com/prathamvajpayee/Sentient-Mini-Discord-Server-Manager
    ```
 
 2. **Install dependencies**
@@ -52,21 +51,15 @@ Powered by **Fireworks API** for Dobby’s AI brain 🧠
 
 4. **Deploy commands (optional)**
    If you're using slash commands, deploy them with:
-
+   
    ```bash
    node deploy-commands.js
    ```
-
-5. **Run the bot**
-
-   ```bash
-   npm run dev
-   ```
-
-   or
+   
+6. **Run the bot**
 
    ```bash
-   node index.js
+   node sentient.js
    ```
 
 ---
