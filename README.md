@@ -34,6 +34,10 @@ Powered by **Fireworks API** for Dobby’s AI brain 🧠
    git clone https://github.com/prathamvajpayee/Sentient-Mini-Discord-Server-Manager
    ```
 
+   ```bash
+   cd Sentient-Mini-Discord-Server-Manager
+   ```
+
 2. **Install dependencies**
 
    ```bash
